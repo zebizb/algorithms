@@ -1,4 +1,4 @@
-package Algorithms.Exceptions.Recursion;
+package com.zebi.algorithms.Exceptions.Recursion;
 
 public class IllegalFactorialNumberException extends Exception {
     public IllegalFactorialNumberException() {
